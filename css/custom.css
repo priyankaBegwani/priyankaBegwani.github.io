@@ -1,0 +1,6 @@
+/* your styles go here */
+
+.delay-05s {
+	animation-delay:0.5s;
+	-webkit-animation-delay:0.5s;
+}
